@@ -135,23 +135,4 @@ Some of these techniques are:
 ---
 
 
-
-<p align=center>
-Overall, I think that I was able to achieve pretty good results through building and tuning the model. Although, I do think that there are a some aspects that could have yielded a better result at the end of the day. <br>
-
-
----
-
-
-Some of these techniques are:
-
-
-*   Deleting some of the possible outliers; Although I played around with deleting all/some of them it yielded same or worse results.
-*   Gathering more data; especially when it comes to the data of victories.
-*   Further parameter tuning in terms of the modelling section.
-
-
-
----
-
 # **Thanks for reading!**
